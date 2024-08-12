@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309181490870",
+    "project_id": "ai-bot-34ebe",
+    "storage_bucket": "ai-bot-34ebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309181490870:android:39fc2fb2044cdc966d2817",
+        "android_client_info": {
+          "package_name": "com.flutterflow.speechtotext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRnPyJL3FuR01wf7oW63zhH6tR3JqNr2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
